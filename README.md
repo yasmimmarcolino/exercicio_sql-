@@ -17,9 +17,8 @@ O arquivo [exercico.sql](exercico.sql) reúne as oito consultas da Parte A:
 7. Faturamento de cada loja, considerando apenas pedidos entregues.
 8. Comissão da plataforma por categoria, arredondada para duas casas.
 
-O desafio extra sobre produtos que nunca foram vendidos ainda não está incluído no arquivo.
 
-## Comandos e recursos usados
+## Comandos e recursos que eu usei 
 
 | Comando ou recurso | Para que usei |
 | --- | --- |
