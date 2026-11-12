@@ -35,8 +35,4 @@ O arquivo [exercico.sql](exercico.sql) reúne as oito consultas da Parte A:
 | `AS` | Dar nomes às colunas calculadas, como `total` e `faturamento`. |
 | `*` e `/` | Multiplicar quantidade pelo preço e calcular a comissão percentual. |
 
-## Como executar
 
-No playground indicado pelo professor, execute primeiro o `setup.sql` fornecido na atividade. Confira se `SELECT COUNT(*) FROM produto;` retorna **6** e depois execute as consultas de `exercico.sql`, comparando os resultados com o enunciado.
-
-O `setup.sql` não está neste repositório. Na consulta 8, uma comissão de `10` representa 10%; no SQLite, valores como `12.00` podem aparecer como `12`.
